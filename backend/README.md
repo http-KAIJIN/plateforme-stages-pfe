@@ -1,4 +1,6 @@
-# Backend FastAPI - Plateforme Stages PFE
+# Backend FastAPI - Stagio
+
+Plateforme intelligente de gestion des stages et PFE.
 
 ## Installation
 

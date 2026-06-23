@@ -1,4 +1,6 @@
-# Documentation API
+# Documentation API - Stagio
+
+Plateforme intelligente de gestion des stages et PFE.
 
 Base URL : `http://127.0.0.1:8000/api/v1`
 

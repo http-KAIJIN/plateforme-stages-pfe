@@ -1,4 +1,6 @@
-# Guide Utilisateur
+# Guide Utilisateur - Stagio
+
+Plateforme intelligente de gestion des stages et PFE.
 
 ## Connexion
 

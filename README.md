@@ -1,4 +1,6 @@
-# Plateforme de Centralisation des Stages et PFE
+# Stagio
+
+Plateforme intelligente de gestion des stages et PFE.
 
 Application web complete pour centraliser les offres de stage, candidatures, projets PFE, rapports, notifications et tableaux de bord par role.
 

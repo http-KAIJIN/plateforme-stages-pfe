@@ -44,7 +44,7 @@ export default function Sidebar({ open, onClose, onToggle }) {
               <Building2 className="h-6 w-6" />
             </div>
             <div>
-              <p className="font-bold text-slate-950">Stages PFE</p>
+              <p className="font-bold text-slate-950">Stagio</p>
               <p className="text-xs text-slate-500">{roleLabel(user?.role)}</p>
             </div>
           </div>

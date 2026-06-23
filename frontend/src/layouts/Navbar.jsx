@@ -13,7 +13,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-30 border-b border-slate-200 bg-white/90 px-5 py-4 backdrop-blur">
       <div className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
         <div className="ml-12 lg:ml-0">
-          <p className="text-sm text-slate-500">Bienvenue</p>
+          <p className="text-sm text-slate-500">Stagio - Plateforme intelligente de gestion des stages et PFE</p>
           <h1 className="text-xl font-bold text-slate-950">{roleLabel(user?.role)}</h1>
         </div>
         <div className="flex items-center gap-3">

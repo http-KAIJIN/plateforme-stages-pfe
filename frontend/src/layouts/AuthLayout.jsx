@@ -8,11 +8,11 @@ export default function AuthLayout({ children }) {
           <div className="rounded-2xl bg-white/15 p-3 backdrop-blur">
             <GraduationCap className="h-8 w-8" />
           </div>
-          Stages & PFE
+          Stagio
         </div>
         <div>
-          <p className="mb-4 text-sm font-semibold uppercase tracking-[0.3em] text-blue-100">Plateforme universitaire</p>
-          <h1 className="max-w-2xl text-5xl font-bold leading-tight">Centralisez les stages, candidatures et projets PFE.</h1>
+          <p className="mb-4 text-sm font-semibold uppercase tracking-[0.3em] text-blue-100">Stagio</p>
+          <h1 className="max-w-2xl text-5xl font-bold leading-tight">Plateforme intelligente de gestion des stages et PFE.</h1>
           <p className="mt-6 max-w-xl text-lg text-blue-100">Une experience simple inspiree des plateformes d'emploi modernes pour connecter etudiants, entreprises et encadrants.</p>
         </div>
         <p className="text-sm text-blue-100">FastAPI + React + PostgreSQL</p>

@@ -1,4 +1,6 @@
-# Plateforme de Centralisation des Stages et PFE - Conception
+# Stagio - Conception
+
+Plateforme intelligente de gestion des stages et PFE.
 
 ## 1. Analyse du projet
 

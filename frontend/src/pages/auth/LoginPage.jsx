@@ -30,13 +30,13 @@ export default function LoginPage() {
                 <GraduationCap className="h-8 w-8" />
               </div>
               <div>
-                <p className="text-lg font-bold">Stages & PFE</p>
-                <p className="text-sm text-blue-100">Plateforme universitaire</p>
+                <p className="text-lg font-bold">Stagio</p>
+                <p className="text-sm text-blue-100">Plateforme intelligente de gestion des stages et PFE</p>
               </div>
             </div>
             <div>
-              <p className="mb-4 text-sm font-semibold uppercase tracking-[0.28em] text-blue-100">Centralisation</p>
-              <h1 className="max-w-xl text-4xl font-bold leading-tight">Connectez etudiants, entreprises et encadrants dans un espace unique.</h1>
+              <p className="mb-4 text-sm font-semibold uppercase tracking-[0.28em] text-blue-100">Stagio</p>
+              <h1 className="max-w-xl text-4xl font-bold leading-tight">Plateforme intelligente de gestion des stages et PFE.</h1>
               <p className="mt-5 max-w-lg text-base leading-7 text-blue-100">Suivi des offres, candidatures, PFE, rapports et notifications avec une interface claire et responsive.</p>
             </div>
             <p className="text-sm text-blue-100">React + FastAPI + PostgreSQL</p>
@@ -48,8 +48,8 @@ export default function LoginPage() {
                 <GraduationCap className="h-7 w-7" />
               </div>
               <div>
-                <p className="text-lg font-bold text-slate-950">Stages & PFE</p>
-                <p className="text-sm text-slate-500">Connexion securisee</p>
+                <p className="text-lg font-bold text-slate-950">Stagio</p>
+                <p className="text-sm text-slate-500">Plateforme intelligente de gestion des stages et PFE</p>
               </div>
             </div>
 

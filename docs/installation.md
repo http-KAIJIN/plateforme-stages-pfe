@@ -1,4 +1,6 @@
-# Guide Installation
+# Guide Installation - Stagio
+
+Plateforme intelligente de gestion des stages et PFE.
 
 ## Prerequis
 
